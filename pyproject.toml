@@ -3,6 +3,8 @@ name = "docparse-eval-sketch"
 version = "0.1.0"
 description = "A small, self-authored regression eval harness for document-field extraction (synthetic data)."
 requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [{ name = "Armaan Gulati" }]
 dependencies = []
 
 [project.optional-dependencies]

@@ -30,7 +30,7 @@ proves the harness catches them:
 - **Table-structure ambiguity** (`doc_04`): a line-item label wraps onto a
   second, indented row, so a naive row parser splits one item into two.
 - **Over-extraction on sparse / empty fields** (`doc_04`, `doc_05`): an empty
-  note and a placeholder (`—`) line item invite a parser to invent a value.
+  note and a dash-placeholder line item invite a parser to invent a value.
 
 `doc_01` and `doc_02` are clean controls.
 
