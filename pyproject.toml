@@ -11,6 +11,16 @@ dependencies = []
 dev = ["pytest>=7", "ruff>=0.4"]
 llm = ["anthropic>=0.30"]
 
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+# The importable package is docparse_eval only; fixtures/ and tests/ are data
+# and tests, not shipped modules. Declaring it explicitly stops setuptools
+# flat-layout auto-discovery from erroring on multiple top-level directories.
+[tool.setuptools]
+packages = ["docparse_eval"]
+
 [tool.ruff]
 line-length = 100
 target-version = "py39"
