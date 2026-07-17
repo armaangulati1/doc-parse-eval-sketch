@@ -1,0 +1,13 @@
+{
+  "company_name": "ATLAS COMPONENTS INC",
+  "period": "Q1 2026",
+  "currency": "USD",
+  "total_revenue": "1480000",
+  "net_income": "765000",
+  "notes": null,
+  "line_items": [
+    ["Product Revenue", "1890000"],
+    ["Research and Development Expenses", "-305000"],
+    ["Selling and Marketing", "-410000"]
+  ]
+}

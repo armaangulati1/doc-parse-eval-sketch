@@ -1,0 +1,14 @@
+{
+  "company_name": "CEDARWORKS LOGISTICS LLC",
+  "period": "Q2 2026",
+  "currency": "EUR",
+  "total_revenue": "2495750",
+  "net_income": "869050",
+  "notes": "Restated per new lease standard.",
+  "line_items": [
+    ["Freight Revenue", "2015000"],
+    ["Warehousing Revenue", "480750"],
+    ["Fuel Costs", "-905300"],
+    ["Administrative Expenses", "-220100"]
+  ]
+}

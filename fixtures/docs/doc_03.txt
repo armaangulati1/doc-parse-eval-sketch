@@ -1,0 +1,12 @@
+MERIDIAN FOODS CORP
+Quarterly Financial Summary
+Period: Q3 2026            Prepared: 2026-10-09
+Currency: USD
+
+LINE ITEMS                     PRIOR PERIOD
+Packaged Goods Revenue     3,120,000     Packaged Goods Revenue     2,890,000
+Fresh Produce Revenue        740,000     Fresh Produce Revenue        690,000
+Cost of Goods Sold        -1,650,000     Cost of Goods Sold        -1,500,000
+
+Total Revenue              3,860,000     Total Revenue              3,580,000
+Net Income                 1,010,000     Net Income                   905,000

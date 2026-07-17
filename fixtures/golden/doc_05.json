@@ -1,0 +1,13 @@
+{
+  "company_name": "BRIGHTPATH TEXTILES INC",
+  "period": "Q4 2026",
+  "currency": "USD",
+  "total_revenue": "2340000",
+  "net_income": "690000",
+  "notes": null,
+  "line_items": [
+    ["Apparel Revenue", "2450000"],
+    ["Home Goods Revenue", "610000"],
+    ["Distribution Costs", "-720000"]
+  ]
+}

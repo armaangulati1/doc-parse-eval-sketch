@@ -1,0 +1,15 @@
+ATLAS COMPONENTS INC
+Quarterly Financial Summary
+Period: Q1 2026            Prepared: 2026-04-11
+Currency: USD
+
+LINE ITEMS
+Product Revenue            1,890,000
+Research and Development
+  Expenses                  -305,000
+Selling and Marketing       -410,000
+
+Total Revenue              1,480,000
+Net Income                   765,000
+
+Notes: —

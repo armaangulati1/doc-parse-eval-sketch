@@ -1,0 +1,13 @@
+{
+  "company_name": "SUMMIT AEROSPACE INC",
+  "period": "Q2 2026",
+  "currency": "USD",
+  "total_revenue": "5420000",
+  "net_income": "1340000",
+  "notes": null,
+  "line_items": [
+    ["Avionics Revenue", "4300000"],
+    ["Maintenance Revenue", "1120000"],
+    ["Materials Cost", "-2240000"]
+  ]
+}

@@ -1,0 +1,15 @@
+NORTHWIND MATERIALS INC
+Quarterly Financial Summary
+Period: Q3 2026            Prepared: 2026-10-15
+Currency: USD
+
+LINE ITEMS
+Product Revenue            1,240,500
+Service Revenue              320,000
+Cost of Goods Sold          -540,200
+Operating Expenses          -410,000
+
+Total Revenue              1,560,500
+Net Income                   610,300
+
+Notes: Figures unaudited.
