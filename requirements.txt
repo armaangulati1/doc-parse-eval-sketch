@@ -1,0 +1,4 @@
+pytest>=7
+ruff>=0.4
+# Optional, only for the live LLM extractor path (not used by tests or CI):
+# anthropic>=0.30
