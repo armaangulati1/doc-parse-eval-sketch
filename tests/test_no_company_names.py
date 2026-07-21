@@ -31,7 +31,10 @@ ROOT = Path(__file__).resolve().parent.parent
 
 # Only scan text we author; skip VCS and tool caches.
 SKIP_DIRS = {".git", ".ruff_cache", ".pytest_cache", ".venv", "__pycache__", ".egg-info"}
-TEXT_SUFFIXES = {".py", ".md", ".yml", ".yaml", ".toml", ".txt", ".cfg", ".ini", ".json", ".csv", ".sh", ".html"}
+TEXT_SUFFIXES = {
+    ".py", ".md", ".yml", ".yaml", ".toml", ".txt",
+    ".cfg", ".ini", ".json", ".csv", ".sh", ".html",
+}
 EXTENSIONLESS_NAMES = {"LICENSE", "Makefile", "Dockerfile"}
 
 
